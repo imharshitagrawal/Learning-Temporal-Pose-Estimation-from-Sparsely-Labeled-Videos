@@ -15,3 +15,5 @@ An example of a labeled frame with bounding boxes and keypoints applied to each 
 
 However due to limited resources, we have not used the entire posetrack 2018 dataset but only 52 training videos to train our model. The  dataset used in this project can be found [here](https://drive.google.com/drive/folders/1CFvc1NeO3Un9aE1tf5GL4TAaifrlR2nv?usp=sharing)
 
+### Models Used
+This project uses Residual Networks, state-of-thE-art High Resolution Network HRNET-W48, simple convolutional layers and deformable convolutional layers for pose warping.
