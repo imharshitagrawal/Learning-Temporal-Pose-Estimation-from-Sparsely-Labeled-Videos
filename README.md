@@ -19,4 +19,5 @@ However due to limited resources, we have not used the entire posetrack 2018 dat
 This project uses Residual Networks, state-of-thE-art High Resolution Network HRNET-W48, simple convolutional layers and deformable convolutional layers for pose warping. The complete model description is as follows:-
 
 ![mod](https://user-images.githubusercontent.com/45999827/82759634-499c5600-9e0c-11ea-9e0d-60a89f078036.JPG)
+![mod2](https://user-images.githubusercontent.com/45999827/82759724-c62f3480-9e0c-11ea-97b0-19627f172f6c.JPG)
 
