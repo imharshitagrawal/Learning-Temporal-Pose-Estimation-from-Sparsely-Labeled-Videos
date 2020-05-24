@@ -42,10 +42,11 @@ Due to only 10% of data available and running for 5 epochs, we achieved about on
 
 For an input cropped image to the network , we got the output heatmap and joints as
 
-![3 (1)](https://user-images.githubusercontent.com/45999827/82760466-48215c80-9e11-11ea-8b68-cebeb38aef0a.jpg)![1 (1)](https://user-images.githubusercontent.com/45999827/82760450-3e97f480-9e11-11ea-9a34-70905de4ebf7.jpg)![ph](https://user-images.githubusercontent.com/45999827/82760584-0644e600-9e12-11ea-9a98-65740e519fb1.JPG)
+![3 (1)](https://user-images.githubusercontent.com/45999827/82760466-48215c80-9e11-11ea-8b68-cebeb38aef0a.jpg)![1 (1)](https://user-images.githubusercontent.com/45999827/82760450-3e97f480-9e11-11ea-9a34-70905de4ebf7.jpg)![ph](https://user-images.githubusercontent.com/45999827/82760584-0644e600-9e12-11ea-9a98-65740e519fb1.JPG) The third column of joints matrix denotes the confidence.
 
 The ground truth corresponding to the input was :
 
 ![2 (1)](https://user-images.githubusercontent.com/45999827/82760462-42c41200-9e11-11ea-9444-cff09fa0a8b9.jpg)
 
+### Instructions to run
 
