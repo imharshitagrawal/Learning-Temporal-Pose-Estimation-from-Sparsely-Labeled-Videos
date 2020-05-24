@@ -41,11 +41,15 @@ Due to only 10% of data available and running for 5 epochs, we achieved about on
 ![mod4](https://user-images.githubusercontent.com/45999827/82760199-9cc3d800-9e0f-11ea-8109-618eb9dcaff8.JPG)
 
 For an input cropped image to the network 
+
 ![3 (1)](https://user-images.githubusercontent.com/45999827/82760466-48215c80-9e11-11ea-8b68-cebeb38aef0a.jpg)
 
 we got the output
+
 ![1 (1)](https://user-images.githubusercontent.com/45999827/82760450-3e97f480-9e11-11ea-9a34-70905de4ebf7.jpg)
+
 The ground truth corresponding to the input was :
+
 ![2 (1)](https://user-images.githubusercontent.com/45999827/82760462-42c41200-9e11-11ea-9444-cff09fa0a8b9.jpg)
 
 
