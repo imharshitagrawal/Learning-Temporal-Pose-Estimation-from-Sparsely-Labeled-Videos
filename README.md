@@ -20,4 +20,15 @@ This project uses Residual Networks, state-of-thE-art High Resolution Network HR
 
 ![mod](https://user-images.githubusercontent.com/45999827/82759634-499c5600-9e0c-11ea-9e0d-60a89f078036.JPG)
 
+### Software Environments
+This project has been completed in Google Colab environment. 
+
+The following frameworks and libraries have been used:
+1. Tensorflow and Tensorlayer
+2. PIL
+3. Pycocotools
+4. skimage
+5. Pycocotools
+6. Numpy, Matplotlib
+
 
