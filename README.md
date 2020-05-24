@@ -40,9 +40,9 @@ Due to only 10% of data available and running for 5 epochs, we achieved about on
 
 ![mod4](https://user-images.githubusercontent.com/45999827/82760199-9cc3d800-9e0f-11ea-8109-618eb9dcaff8.JPG)
 
-For an input cropped image to the network , we got the output
+For an input cropped image to the network , we got the output heatmap and joints as
 
-![3 (1)](https://user-images.githubusercontent.com/45999827/82760466-48215c80-9e11-11ea-8b68-cebeb38aef0a.jpg)![1 (1)](https://user-images.githubusercontent.com/45999827/82760450-3e97f480-9e11-11ea-9a34-70905de4ebf7.jpg)
+![3 (1)](https://user-images.githubusercontent.com/45999827/82760466-48215c80-9e11-11ea-8b68-cebeb38aef0a.jpg)![1 (1)](https://user-images.githubusercontent.com/45999827/82760450-3e97f480-9e11-11ea-9a34-70905de4ebf7.jpg)![ph](https://user-images.githubusercontent.com/45999827/82760584-0644e600-9e12-11ea-9a98-65740e519fb1.JPG)
 
 The ground truth corresponding to the input was :
 
