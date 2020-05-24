@@ -7,7 +7,7 @@ This is a tensorflow implementation of the research paper [***Learning Temporal 
 ### Datasets used
 The dataset used in this project is [***Posetrack 2018***](https://posetrack.net/users/download.php). Overall data set contains 550 video sequences which includes 66,374 frames. The length of the training videos ranges between 41–151 frames and they densely annotated 30 frames from the center of the video. There are 17 key points annotated for each person. 
 
-![1_GcBnfebH5LdSy60hzU9bng (2)](https://user-images.githubusercontent.com/45999827/82748570-b853c200-9dc0-11ea-8519-724d2e9028e9.png)
+![mod3](https://user-images.githubusercontent.com/45999827/82759694-9aac4a00-9e0c-11ea-89a7-743bfff66bb0.JPG)
 
 An example of a labeled frame with bounding boxes and keypoints applied to each person -
 
