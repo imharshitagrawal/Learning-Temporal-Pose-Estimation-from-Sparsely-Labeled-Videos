@@ -28,7 +28,14 @@ The following frameworks and libraries have been used:
 2. PIL
 3. Pycocotools
 4. skimage
-5. Pycocotools
-6. Numpy, Matplotlib
+5. math
+6. random
+7. json
+8. time
+9. Numpy, Matplotlib
+
+### Results
+
+Due to only 10% of data available and running for 5 epochs, we achieved about only 30% accuracy on our training data.
 
 
