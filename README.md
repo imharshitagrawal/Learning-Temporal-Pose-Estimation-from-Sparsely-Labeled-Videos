@@ -38,4 +38,9 @@ The following frameworks and libraries have been used:
 
 Due to only 10% of data available and running for 5 epochs, we achieved about only 30% accuracy on our training data.
 
+![mod4](https://user-images.githubusercontent.com/45999827/82760199-9cc3d800-9e0f-11ea-8109-618eb9dcaff8.JPG)
 
+For an input cropped image to the network 
+
+
+we got the output
