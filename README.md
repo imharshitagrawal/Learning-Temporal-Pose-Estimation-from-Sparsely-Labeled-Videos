@@ -68,4 +68,4 @@ The ground truth corresponding to the input was :
    ! pip3 install git+https://github.com/tensorlayer/tensorlayer.git
    ```
    - Run the entire notebook as usual.
-
+6. A visualisation notebook has also been given to visualize the keypoints on the frames.
