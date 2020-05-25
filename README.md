@@ -50,3 +50,22 @@ The ground truth corresponding to the input was :
 
 ### Instructions to run
 
+1. Download the Posetrack 2018 folder to your google drive from the link in the datasets used section.
+2. Clone this repository to your local system, unzip it and upload the folder on your google drive.
+3. Open data_loader notebook in google colab, mount your drive and run the notebook. This will load the data in the required format to be used later.
+4. Make a folder simple-HRNet inside the folder where data_loader and master notebooks are present. Download the HRNET- W48 model into it. Please clone this [repository](https://github.com/stefanopini/simple-HRNet) by following all the steps in the readme file. Download pretrained weights, Yolo for multiperson detection.
+5. Open the master notebook in the google colab, mount your drive.
+   - Uncomment this line and after running comment it again.
+    ```
+    !pip install import_ipynb
+    ```
+   - Run this command everytime you use this notebook.
+   ```
+   %run '/content/drive/My Drive/Learning Temporal Pose Estimation/data_loader.ipynb'
+   ```
+   -Uncomment this line
+   ```
+   ! pip3 install git+https://github.com/tensorlayer/tensorlayer.git
+   ```
+   - Run the entire notebook as usual.
+
